@@ -1,5 +1,6 @@
 sagemaker
 scikit-learn
+python-dotenv
 pandas
 numpy 
 ipykernel

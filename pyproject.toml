@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "numpy>=1.26.4",
     "pandas>=2.3.0",
+    "python-dotenv>=1.1.1",
     "sagemaker>=2.247.1",
     "scikit-learn>=1.7.0",
 ]
